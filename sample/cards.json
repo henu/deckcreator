@@ -1,0 +1,28 @@
+{
+    "style": {
+        "card": [460, 780],
+        "title": [25, 25, 410, 40],
+        "image": [20, 80, 420, 315],
+        "description_topic": [25, 410, 410, 30],
+        "description": [25, 460, 410, 295],
+        "title_font": "Times_New_Roman_Bold.ttf",
+        "title_font_size": 35,
+        "description_topic_font": "Times_New_Roman_Bold.ttf",
+        "description_topic_font_size": 26,
+        "description_font": "Times_New_Roman.ttf",
+        "description_font_size": 30
+    },
+    "cards": {
+        "stallman": {
+            "title": "Richard Stallman",
+            "description_topic": "Creature - Human Hacker",
+            "description": "Inflicts 100 damage to all units using closed source code.\n\nSpecial effect: Inflicts 200 extra damage if unit has Microsoft products in use.",
+            "image": "Richard_Stallman_by_gisleh_01.jpg",
+            "image_source_license_and_author_here": "https://commons.wikimedia.org/wiki/File:Richard_Stallman_by_gisleh_01.jpg",
+            "background": "white metal borders.jpg",
+            "background_tint": "#8f1329",
+            "text_color": "#e0e0e0"
+        }
+    }
+}
+
